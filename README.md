@@ -1,2 +1,3 @@
-# Scientific Computing 2023
-Example notebooks and slides from the KU Scientific Computing course, 2023
+# Scientific Computing (NBI/KU)
+Example notebooks and slides from the KU Scientific Computing course, 2023/2024
+
